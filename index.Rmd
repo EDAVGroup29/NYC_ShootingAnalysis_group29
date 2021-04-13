@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
+title: "NYC Shooting Analysis"
+author: "Sai Trinath, Tarun Devireddy, Mitali Bante"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
